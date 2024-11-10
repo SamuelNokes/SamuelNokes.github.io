@@ -1,1 +1,1 @@
-A personal website for Sam Nokes.
+# A [personal website](https://samuelnokes.co/) for Sam Nokes.
